@@ -7,7 +7,7 @@
 
 然后大家看到的我发出来的链接是带一个邀请码的，走我邀请码注册和充值的人，我就会收到 2 美元返现
 
-<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/619f8df7056b317d8cd5213cc175a4e8.jpeg" width="500"></div>
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/619f8df7056b317d8cd5213cc175a4e8.jpeg" width="400"></div>
 
 目前选择 wildcard 作为虚拟支付卡工具，主要原因是其注册简便、开卡速度快，最重要的是支持 RMB 付款。其他平台需购买稳定币兑换，对普通用户门槛高且手续费昂贵。
 
