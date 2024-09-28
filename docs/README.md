@@ -1,9 +1,13 @@
 # 基本介绍
 [https://bewildcard.com/i/1234](https://bewildcard.com/i/1234)
+
 先简单给大家说一下我说的平台，就是上面我发的这个，这个平台是做虚拟信用卡的，是一个专门用于开通 ChatGPT Plus 会员的工具。
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChat2d2143e90b1b220630201d9d79c45c2c.jpg)
+
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/50299d48dc9148586f5c7e86bb953be3.jpeg" width="1000"></div>
+
 然后大家看到的我发出来的链接是带一个邀请码的，走我邀请码注册和充值的人，我就会收到 2 美元返现
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChat380d20364794a1096cceac72c1026364.jpg)
+
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/619f8df7056b317d8cd5213cc175a4e8.jpeg" width="500"></div>
 
 目前选择 wildcard 作为虚拟支付卡工具，主要原因是其注册简便、开卡速度快，最重要的是支持 RMB 付款。其他平台需购买稳定币兑换，对普通用户门槛高且手续费昂贵。
 
@@ -28,7 +32,7 @@ wildcard 除了开卡费和充值手续费外，没有月费，并且打通了�
 
 从 23 年初就有很多人在卖账号，基本收入都是六位数起步，到了 24 年，需求依然非常旺盛现在对于 GPT Plus 升级的需求越来越旺盛了。
 
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/f89963d2eb6a4119be8ca6434836ac39.png)
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/533ff81b860a8b28bd0704f7a16a14d2.png" width="800"></div>
 
 比如我去注册了一个新域名来单独放这些内容大概写了五篇文章（太懒了，就 12 月搞了两天）在网站上，到现在一个月了，日均 PV100，流量不算高，但是很精准，至少每天能带来几个转化吧，但几个就是一天百来块了。再加上我知乎、小红书、掘金、百度等等平台铺垫的内容，基本上目前日均 500 没问题。
 
@@ -43,8 +47,8 @@ wildcard 除了开卡费和充值手续费外，没有月费，并且打通了�
 注册的时候如果没有填邀请码，可以手动填入四位数字 1234 邀请码，可以免 2 美元（约 15 RMB）的开卡费～
 请大家务必要用这个邀请码，后面我会跟平台老板申请佣金加到 2.2 美元或者更高。
 
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChatb735cc053cd3ce71bef1790cdfdfaae3.jpg)
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/441708787765_.pic.jpg)
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/ee9d769ddc17fe37d44dabf2e8d921fe.jpeg" width="500"></div>
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/1885ec30389540701c1375a38c3cce75.jpeg" width="500"></div>
 
 ## 1.2 项目收入预期
 这个很难说，我只能说我几乎没有用我任何公域流量，都是用的一些新注册的小账号。
@@ -54,11 +58,11 @@ wildcard 除了开卡费和充值手续费外，没有月费，并且打通了�
 
 我从 2023 年 12 月 12 号才开始做的，基本上第二三天就日入 500+ 了（PS：这是每天提现到支付宝的收益，完全正规哈，数据都是我才截图的支付宝，不会做任何假，可以随时来看）
 
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/381708748621_.pic.jpg)
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/60137bfbeba35d9ea1c703ae726a010a.jpeg" width="500"></div>
 
 这是 24 年一月的数据，差不多也是 1.5w 了，最最关键的是，我从 23 年 12 月下旬，就没怎么管过这些内容了，到目前纯纯是躺。
 
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/391708748623_.pic.jpg)
+<div align="center"><img src="https://honor-bucket.oss-cn-heyuan.aliyuncs.com/edc570c05046fe0b9737fde59472610a.jpeg" width="500"></div>
 
 ## 1.3 该项目需要什么技能才能做?
 老实说，这个不需要技能，看完我上面的介绍应该能明白这就是靠返佣赚钱，只需要你会在 知乎、小红书、CSDN、B 站等等平台发布文章/视频即可，一般教程文章就可以了。
